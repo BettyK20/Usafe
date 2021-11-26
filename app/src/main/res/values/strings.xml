@@ -8,8 +8,8 @@
     <string name="start_navigation">Start Navigation</string>
     <string name="running_message">We detected you are running.\nAre you safe?</string>
     <string name="msg_token_fmt">Notificationmessage %s</string>
-    <string name="api_key">API KEY</string>
-    <string name="home_IP">API IP</string>
+    <string name="api_key">10.50.26.195</string>
+    <string name="home_IP">127.0.0.1 </string>
     <string name="title_activity_maps_followers">Map</string>
     <string name="title_activity_journey">Map</string>
     <string name="ask_permission">Please allow Speech to always run in the background,else our services can\'t be accessed when you are in distress</string>

@@ -26,7 +26,10 @@
         android:roundIcon="@mipmap/logo"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
-        android:requestLegacyExternalStorage="true">
+        android:requestLegacyExternalStorage="true"
+        android:usesCleartextTraffic="true" >
+
+
         <meta-data
             android:name="com.google.firebase.messaging.default_notification_icon"
             android:resource="@drawable/logo" />
@@ -79,5 +82,8 @@
         <service android:name=".service.ActivityRecognitionService" />
         <service android:name=".service.SpeechRecognitionService" />
     </application>
+
+
+
 
 </manifest>
